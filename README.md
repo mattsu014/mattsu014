@@ -27,7 +27,7 @@ Redes sociais:
   <a href="https://www.instagram.com/mattsu014/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:mateusvalentimdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href = "https://discord.com/users/642035255431266344"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="target="_blank"></a>
-  <a href = "https://judge.beecrowd.com/pt/profile/972699"><img src="https://media.discordapp.net/attachments/1068920208313557046/1239255652350693376/image.png?ex=66424243&is=6640f0c3&hm=26f49dc93846431c01696ae2b167529edb00361fbcdbc58004e66c9e53e0d0ce&=&format=webp&quality=lossless" target="target="_blank" height="28" width="110"></a>
+  <a href = "https://judge.beecrowd.com/pt/profile/972699"><img src="https://hermes.dio.me/articles/cover/3f84021b-aa8b-45b2-9641-8d2fe240174e.jpg" target="target="_blank" height="28" width="110"></a>
 
 
 </div>
