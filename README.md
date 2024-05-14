@@ -4,7 +4,7 @@
 - 🌱 Exercitando JS, Python e C/C++ no site Beecrowd 
 - ✍ Aprendendo novas tecnologias todos os dias
   
-  <img align="center" alt="gif" height="90" width="120" src="https://i.pinimg.com/originals/4f/93/32/4f933292356b8b06abaeee7a99294c0b.gif">
+  <img align="center" alt="gif" height="100" width="130" src="https://www.icegif.com/wp-content/uploads/icegif-7031.gif">
 
 ## 
 Tecnologias que eu estou aprendendo:
