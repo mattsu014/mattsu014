@@ -4,7 +4,7 @@
 - 🌱 Exercitando JS, Python e C/C++ no site Beecrowd 
 - ✍ Aprendendo novas tecnologias todos os dias
   
-  <img align="center" alt="Mateus-figma" height="90" width="90" src="https://i.pinimg.com/originals/11/0e/7c/110e7c1e1c8c8953e787b56fdff866ed.gif">
+  <img align="center" alt="Mateus-figma" height="90" width="90" src="https://emoji.discadia.com/emojis/69f513d2-4e14-49a4-b8ee-9f9d24d52d90.gif">
 
 ## 
 Tecnologias que eu domino/estou aprendendo:
