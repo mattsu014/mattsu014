@@ -7,7 +7,7 @@
   <img align="center" alt="gif" height="90" width="120" src="https://i.pinimg.com/originals/4f/93/32/4f933292356b8b06abaeee7a99294c0b.gif">
 
 ## 
-Tecnologias que eu domino/estou aprendendo:
+Tecnologias que eu estou aprendendo:
   <div style="display: inline_block;"><br>
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="margin-top: 1 rem;">
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="margin-top: 1 rem;">
