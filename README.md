@@ -16,6 +16,7 @@ Tecnologias que eu estou aprendendo:
   <img align="center" alt="Mateus-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="margin-top: 1 rem;">
   <img align="center" alt="Mateus-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="margin-top: 1 rem;">
   <img align="center" alt="Mateus-arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" style="margin-top: 1 rem;">
+    <img align="center" alt="Mateus-git" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" style="margin-top: 1 rem;">
   <img align="center" alt="Mateus-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="margin-top: 1 rem;">
 </div>
 
