@@ -1,7 +1,7 @@
 ### Olá! O meu nome é Mateus Valentim
 
 - 🔭 Cursando Engenharia da Computação | Universidade de Fortaleza
-- 🌱 Exercitando JS, Python e C/C++ no site Beecrowd 
+- 🌱 Exercitando JS, Python e C/C++ 
 - ✍ Aprendendo novas tecnologias todos os dias
   
   <img align="center" alt="gif" height="100" width="130" src="https://www.icegif.com/wp-content/uploads/icegif-7031.gif">
