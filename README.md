@@ -4,7 +4,7 @@
 - 🌱 Exercitando JS, Python e C/C++ 
 - ✍ Aprendendo novas tecnologias todos os dias
   
-  <img align="center" alt="gif" height="100" width="130" src="https://www.icegif.com/wp-content/uploads/icegif-7031.gif">
+  <img align="center" alt="gif" height="100" width="100" src="https://img1.picmix.com/output/stamp/normal/6/9/5/4/2594596_3e505.gif">
 
 ## 
 Tecnologias que eu estou aprendendo:
