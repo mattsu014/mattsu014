@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">-💻Estudante de Engenharia da Computação.<br>-🌱Aprendendo algo novo todo dia.<br>-📺Assisto uns animes no meu tempo livre.</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mattsu014&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mattsu014&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false" height="150" alt="languages graph"  />
@@ -51,6 +55,12 @@
 
 <div align="center">
   <img height="200" src="https://camo.githubusercontent.com/f70922d520581625657e5388888235dc504e207b5b4cae3a122bd211b55a3c0f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f79504c446c354d33307367414141416a2f6f6e652d70696563652d706978656c2e676966"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mattsu014&radius=16&theme=react&area=true&order=5" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
