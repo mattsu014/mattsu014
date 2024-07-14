@@ -9,11 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/yPLDl5M30sgAAAAj/one-piece-pixel.gif"  />
+<br clear="both">
 
-###
-
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
@@ -37,7 +35,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/mattsu014/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -47,6 +45,12 @@
   <a href="mailto:mateusvalentimdev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/f70922d520581625657e5388888235dc504e207b5b4cae3a122bd211b55a3c0f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f79504c446c354d33307367414141416a2f6f6e652d70696563652d706978656c2e676966"  />
 </div>
 
 ###
