@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-💻Estudante de Engenharia da Computação.<br>-🌱Aprendendo algo novo todo dia.<br>-📺Assisto uns animes no meu tempo livre.</p>
+<p align="left">-💻Estudante de Engenharia da Computação - 2° semestre.<br>-🌱Aprendendo algo novo todo dia.<br> -💭Sonho em atuar em áreas relacionadas a Machine Learning e Robótica, mas eu também curto muito a área de Desenvolvimento Web.<br>-📺Assisto uns animes no meu tempo livre.<br></p>
 
 ###
 
@@ -22,13 +22,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
