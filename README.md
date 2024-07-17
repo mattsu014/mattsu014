@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-💻Estudante de Engenharia da Computação - 2° semestre.<br>-🌱Aprendendo algo novo todo dia.<br> -💭Sonho em atuar em áreas relacionadas a Machine Learning e Robótica, mas eu também curto muito a área de Desenvolvimento Web.<br>-📺Assisto uns animes no meu tempo livre.<br></p>
+<p align="left">-💻Estudante de Engenharia da Computação - 2° semestre.<br>-🌱Aprendendo algo novo todo dia.<br> -💭Sonho em atuar em áreas relacionadas a Machine Learning e Robótica.<br>-📝Desenvolvimento Web, Robotica e Automação.<br>-📺Assisto uns animes no meu tempo livre.<br></p>
 
 ###
 
