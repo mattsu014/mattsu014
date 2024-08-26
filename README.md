@@ -22,17 +22,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="python logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="arduino logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=scss" height="30" alt="git logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/f70922d520581625657e5388888235dc504e207b5b4cae3a122bd211b55a3c0f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f79504c446c354d33307367414141416a2f6f6e652d70696563652d706978656c2e676966"  />
+  <img height="200" src="https://media.tenor.com/yPLDl5M30sgAAAAi/one-piece-pixel.gif"  />
 </div>
 
 ###
