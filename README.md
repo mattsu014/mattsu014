@@ -35,7 +35,9 @@
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodehs logo"  />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
 </div>
 
