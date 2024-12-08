@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-💻Estudante de Engenharia da Computação - 2° semestre.<br>-🌱Aprendendo algo novo todo dia.<br> -💭Sonho em atuar em áreas relacionadas a Machine Learning e Robótica.<br>-📝Desenvolvimento Web, Robótica e Automação.<br>-📺Assisto uns animes no meu tempo livre.<br></p>
+<p align="left">-💻Computer Engineering Student <br>-🌱Learning something new every day. <br>-📝Web Development, Data Science, Robotics</p>
 
 ###
 
@@ -60,11 +60,3 @@
 <div align="center">
   <img height="200" src="https://media.tenor.com/yPLDl5M30sgAAAAi/one-piece-pixel.gif"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mattsu014&radius=16&theme=react&area=true&order=5" height="200" alt="activity-graph graph"  />
-</div>
-
-###
