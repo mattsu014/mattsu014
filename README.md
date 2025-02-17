@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-💻Computer Engineering Student <br>-🌱Learning something new every day. <br>-📝Web Development, Data Science, Robotics</p>
+<p align="left">-💻Computer Engineering Student <br>-🌱Learning something new every day. <br>-📝Web Development | Data Science | Robotics</p>
 
 ###
 
