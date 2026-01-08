@@ -1,14 +1,17 @@
 # I'm Mateus Valentim
 
-- ⚡️ Computer Engineering student at **UFC**
-- 🤖 Artificial Intelligence student at **Unifor**
-
 **Software Development** • **AI/ML** • **Linux** • **Operating Systems** • **Computer Architecture**
 
 I’m passionate about understanding how things work **under the hood** —
 from low-level systems to intelligent software.
 
 I enjoy **building**, **breaking**, and **rebuilding** things until they make sense.
+
+### 🎓 Education
+- ⚡️ **Computer Engineering** — Federal University of Ceará (UFC)
+- 🤖 **Artificial Intelligence** — University of Fortaleza (Unifor)
+
+
 
 ---
 
