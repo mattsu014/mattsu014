@@ -7,10 +7,7 @@ from low-level systems to intelligent software.
 
 I enjoy **building**, **breaking**, and **rebuilding** things until they make sense.
 
----
-
 ### 🎓 Education
-
 - ⚡️ **Computer Engineering** — Federal University of Ceará (UFC)
 - 🤖 **Artificial Intelligence** — University of Fortaleza (Unifor)
 
@@ -36,21 +33,6 @@ I enjoy **building**, **breaking**, and **rebuilding** things until they make se
 ---
 
 <details>
-  <summary><strong>📐 Core Knowledge</strong></summary>
-
-  <br/>
-
-* Computer Systems & Architecture
-* Operating Systems (Linux)
-* Algorithms & Data Structures
-* Low-level Programming Concepts
-* Software Engineering Principles
-
-</details>
-
----
-
-<details>
   <summary><strong>💻 Programming Languages</strong></summary>
 
   <br/>
@@ -67,9 +49,11 @@ I enjoy **building**, **breaking**, and **rebuilding** things until they make se
 ---
 
 <details>
-  <summary><strong>🤖 Artificial Intelligence & Data</strong></summary>
+  <summary><strong>🛠️ Skills & Technologies</strong></summary>
 
   <br/>
+
+### 🤖 Artificial Intelligence & Data
 
 * Machine Learning fundamentals
 * Model training & evaluation
@@ -83,68 +67,53 @@ I enjoy **building**, **breaking**, and **rebuilding** things until they make se
 * Pandas
 * NumPy
 
-</details>
-
 ---
 
-<details>
-  <summary><strong>🌐 Web & Application Development</strong></summary>
-
-  <br/>
+### 🌐 Web & Application Development
 
 **Frontend**
+
 * React
 * Next.js
 * Bootstrap
 
 **Backend**
+
 * Node.js
 * Spring Boot
 
 **Desktop**
-* Electron
 
-</details>
+* Electron
 
 ---
 
-<details>
-  <summary><strong>🐧 Systems, DevOps & Tooling</strong></summary>
-
-  <br/>
+### 🐧 Systems, DevOps & Tooling
 
 * Linux (daily driver: **Arch Linux** 🐧)
 * Git & GitHub
 * Docker
 * Shell scripting
 
-</details>
-
 ---
 
-<details>
-  <summary><strong>☁️ Databases & Cloud</strong></summary>
-
-  <br/>
+### ☁️ Databases & Cloud
 
 **Databases**
+
 * PostgreSQL
 * MySQL
 * MariaDB
 
 **Cloud & Hosting**
+
 * AWS
 * Vercel
 * GitHub Pages
 
-</details>
-
 ---
 
-<details>
-  <summary><strong>📊 Project Management, Strategy & Research</strong></summary>
-
-  <br/>
+### 📊 Project Management, Strategy & Research
 
 * Project management fundamentals (**PMBOK**)
 * Agile methodologies (**Scrum, Kanban, Lean**)
@@ -177,7 +146,7 @@ I enjoy **building**, **breaking**, and **rebuilding** things until they make se
 
 I occasionally write about what I’m learning and experimenting with:
 
-* **dev.to**  
+* **dev.to**
   https://dev.to/mattsu014
 
 </details>
