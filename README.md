@@ -7,11 +7,12 @@ from low-level systems to intelligent software.
 
 I enjoy **building**, **breaking**, and **rebuilding** things until they make sense.
 
+---
+
 ### 🎓 Education
+
 - ⚡️ **Computer Engineering** — Federal University of Ceará (UFC)
 - 🤖 **Artificial Intelligence** — University of Fortaleza (Unifor)
-
-
 
 ---
 
@@ -35,11 +36,9 @@ I enjoy **building**, **breaking**, and **rebuilding** things until they make se
 ---
 
 <details>
-  <summary><strong>🛠️ Skills & Technologies</strong></summary>
+  <summary><strong>📐 Core Knowledge</strong></summary>
 
   <br/>
-
-### 🧠 Core Knowledge
 
 * Computer Systems & Architecture
 * Operating Systems (Linux)
@@ -47,9 +46,14 @@ I enjoy **building**, **breaking**, and **rebuilding** things until they make se
 * Low-level Programming Concepts
 * Software Engineering Principles
 
+</details>
+
 ---
 
-### 💻 Programming Languages
+<details>
+  <summary><strong>💻 Programming Languages</strong></summary>
+
+  <br/>
 
 * **Python** — AI, data analysis, automation
 * **JavaScript / TypeScript** — full-stack development
@@ -58,9 +62,14 @@ I enjoy **building**, **breaking**, and **rebuilding** things until they make se
 * **Bash** — scripting & automation
 * **SQL** — relational databases
 
+</details>
+
 ---
 
-### 🤖 Artificial Intelligence & Data
+<details>
+  <summary><strong>🤖 Artificial Intelligence & Data</strong></summary>
+
+  <br/>
 
 * Machine Learning fundamentals
 * Model training & evaluation
@@ -74,53 +83,68 @@ I enjoy **building**, **breaking**, and **rebuilding** things until they make se
 * Pandas
 * NumPy
 
+</details>
+
 ---
 
-### 🌐 Web & Application Development
+<details>
+  <summary><strong>🌐 Web & Application Development</strong></summary>
+
+  <br/>
 
 **Frontend**
-
 * React
 * Next.js
 * Bootstrap
 
 **Backend**
-
 * Node.js
 * Spring Boot
 
 **Desktop**
-
 * Electron
+
+</details>
 
 ---
 
-### 🐧 Systems, DevOps & Tooling
+<details>
+  <summary><strong>🐧 Systems, DevOps & Tooling</strong></summary>
+
+  <br/>
 
 * Linux (daily driver: **Arch Linux** 🐧)
 * Git & GitHub
 * Docker
 * Shell scripting
 
+</details>
+
 ---
 
-### ☁️ Databases & Cloud
+<details>
+  <summary><strong>☁️ Databases & Cloud</strong></summary>
+
+  <br/>
 
 **Databases**
-
 * PostgreSQL
 * MySQL
 * MariaDB
 
 **Cloud & Hosting**
-
 * AWS
 * Vercel
 * GitHub Pages
 
+</details>
+
 ---
 
-### 📊 Project Management, Strategy & Research
+<details>
+  <summary><strong>📊 Project Management, Strategy & Research</strong></summary>
+
+  <br/>
 
 * Project management fundamentals (**PMBOK**)
 * Agile methodologies (**Scrum, Kanban, Lean**)
@@ -153,8 +177,8 @@ I enjoy **building**, **breaking**, and **rebuilding** things until they make se
 
 I occasionally write about what I’m learning and experimenting with:
 
-* **dev.to**
-  [https://dev.to/mattsu014](https://dev.to/mattsu014)
+* **dev.to**  
+  https://dev.to/mattsu014
 
 </details>
 
