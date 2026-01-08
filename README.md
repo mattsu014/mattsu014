@@ -1,9 +1,9 @@
-# 👋 I'm Mateus Valentim 
+# 👋 I'm Mateus vAlentuimn
 
-⚡️ **Computer Engineering** student at **UFC**  
-🤖 **Artificial Intelligence** student at **Unifor**
+- ⚡️ **Computer Engineering** student at **UFC**
+- 🤖 **Artificial Intelligence** student at **Unifor**
 
-I'm passionate about understanding how things work **under the hood** —  
+I'm passionate about understanding how things work **under the hood** —
 from low-level systems to intelligent software.
 
 I enjoy **building**, **breaking**, and **rebuilding** things until they make sense.
@@ -16,115 +16,66 @@ I enjoy **building**, **breaking**, and **rebuilding** things until they make se
 
 ## 🧠 Interests & Focus
 
-- Software Development
-- Artificial Intelligence & Machine Learning
-- Operating Systems & Linux
-- Computer Systems & Architecture
-- Problem-solving through experimentation
+* Software Development
+* Artificial Intelligence & Machine Learning
+* Operating Systems & Linux
+* Computer Systems & Architecture
+* Problem-solving through experimentation
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 ### 🧠 Core Knowledge
-- Computer Systems & Architecture  
-- Operating Systems (Linux)  
-- Algorithms & Data Structures  
-- Low-level Programming Concepts  
-- Software Engineering Principles  
 
----
+Computer Systems & Architecture • Operating Systems (Linux) • Algorithms & Data Structures • Low-level Programming • Software Engineering
 
 ### 💻 Programming Languages
-- **Python** — AI, data analysis, automation  
-- **JavaScript / TypeScript** — full-stack development  
-- **C / C++** — systems and performance-critical code  
-- **Java** — object-oriented programming & backend  
-- **Bash** — scripting & automation  
-- **SQL** — relational databases  
 
----
+**Python • JavaScript / TypeScript • C / C++ • Java • Bash • SQL**
 
 ### 🤖 Artificial Intelligence & Data
-- Machine Learning fundamentals  
-- Model training & evaluation  
-- Data preprocessing & analysis  
 
-**Libraries & Tools**
-- Scikit-learn  
-- TensorFlow  
-- PyTorch  
-- Pandas  
-- NumPy  
-
----
+Machine Learning • Model Training & Evaluation • Data Preprocessing
+Scikit-learn • TensorFlow • PyTorch • Pandas • NumPy
 
 ### 🌐 Web & Application Development
 
-**Frontend**
-- React  
-- Next.js  
-- Bootstrap  
-
-**Backend**
-- Node.js  
-- **Spring Boot (Java)**  
-
-**Desktop**
-- Electron  
-
----
+Frontend: React • Next.js • Bootstrap
+Backend: Node.js • Spring Boot
+Desktop: Electron
 
 ### 🐧 Systems, DevOps & Tooling
-- Linux (daily driver: **Arch Linux** 🐧)  
-- Git & GitHub  
-- Docker  
-- Shell scripting  
 
----
+Linux (Arch) • Git & GitHub • Docker • Shell Scripting
 
 ### ☁️ Databases & Cloud
 
-**Databases**
-- PostgreSQL  
-- MySQL  
-- MariaDB  
-
-**Cloud & Hosting**
-- AWS  
-- Vercel  
-- GitHub Pages  
-
----
-
-### 🧪 Development Practices
-- Writing clean, maintainable code  
-- Learning by building and breaking systems  
+PostgreSQL • MySQL • MariaDB
+AWS • Vercel • GitHub Pages
 
 ---
 
 ## 🧪 What I’m Usually Doing
 
-- ⚙️ Writing and refactoring code  
-- 📚 Studying systems, algorithms, and AI concepts  
-- 🧠 Exploring how software and hardware interact  
-- 🧩 Learning by experimentation  
+* ⚙️ Writing and refactoring code
+* 📚 Studying systems, algorithms, and AI
+* 🧠 Exploring software–hardware interaction
+* 🧩 Learning by experimentation
 
 ---
 
 ## ✍️ Writing
 
-I occasionally write about what I’m learning and experimenting with:
-
-- **dev.to**  
-  https://dev.to/mattsu014  
+* **dev.to**
+  [https://dev.to/mattsu014](https://dev.to/mattsu014)
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: [mateusvalentimdev@gmail.com](mailto:mateusvalentimdev@gmail.com)  
-- 💼 LinkedIn: https://www.linkedin.com/in/mattsu014  
+* 📧 Email: [mateusvalentimdev@gmail.com](mailto:mateusvalentimdev@gmail.com)
+* 💼 LinkedIn: [https://www.linkedin.com/in/mattsu014](https://www.linkedin.com/in/mattsu014)
 
 ---
 
