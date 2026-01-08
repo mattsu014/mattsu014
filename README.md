@@ -1,9 +1,12 @@
-# 👋 I'm Mateus Valentim 
+# I'm Mateus Valentim 
 
 ⚡️ **Computer Engineering** student at **UFC**  
 🤖 **Artificial Intelligence** student at **Unifor**
 
-I'm passionate about understanding how things work **under the hood** —  
+I’m focused on **Software Development**, **Artificial Intelligence & Machine Learning**,  
+**Operating Systems & Linux**, and **Computer Systems & Architecture**.
+
+I’m passionate about understanding how things work **under the hood** —  
 from low-level systems to intelligent software.
 
 I enjoy **building**, **breaking**, and **rebuilding** things until they make sense.
@@ -136,18 +139,6 @@ I enjoy **building**, **breaking**, and **rebuilding** things until they make se
 
   - **dev.to**  
     https://dev.to/mattsu014  
-
-</details>
-
----
-
-<details>
-  <summary><strong>📫 Contact</strong></summary>
-
-  <br/>
-
-  - 📧 Email: [mateusvalentimdev@gmail.com](mailto:mateusvalentimdev@gmail.com)  
-  - 💼 LinkedIn: https://www.linkedin.com/in/mattsu014  
 
 </details>
 
