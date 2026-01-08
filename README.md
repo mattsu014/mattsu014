@@ -1,12 +1,11 @@
-# I'm Mateus Valentim 
+# I'm Mateus Valentim
 
-⚡️ **Computer Engineering** student at **UFC**  
-🤖 **Artificial Intelligence** student at **Unifor**
+- ⚡️ Computer Engineering at **UFC**
+- 🤖 Artificial Intelligence **Unifor**
 
-I’m focused on **Software Development**, **Artificial Intelligence & Machine Learning**,  
-**Operating Systems & Linux**, and **Computer Systems & Architecture**.
+**Software Development** • **AI/ML** • **Linux** • **Operating Systems** • **Computer Architecture**
 
-I’m passionate about understanding how things work **under the hood** —  
+I’m passionate about understanding how things work **under the hood** —
 from low-level systems to intelligent software.
 
 I enjoy **building**, **breaking**, and **rebuilding** things until they make sense.
@@ -22,11 +21,11 @@ I enjoy **building**, **breaking**, and **rebuilding** things until they make se
 
   <br/>
 
-  - Software Development  
-  - Artificial Intelligence & Machine Learning  
-  - Operating Systems & Linux  
-  - Computer Systems & Architecture  
-  - Problem-solving through experimentation  
+* Software Development
+* Artificial Intelligence & Machine Learning
+* Operating Systems & Linux
+* Computer Systems & Architecture
+* Problem-solving through experimentation
 
 </details>
 
@@ -37,80 +36,94 @@ I enjoy **building**, **breaking**, and **rebuilding** things until they make se
 
   <br/>
 
-  ### 🧠 Core Knowledge
-  - Computer Systems & Architecture  
-  - Operating Systems (Linux)  
-  - Algorithms & Data Structures  
-  - Low-level Programming Concepts  
-  - Software Engineering Principles  
+### 🧠 Core Knowledge
 
-  ---
+* Computer Systems & Architecture
+* Operating Systems (Linux)
+* Algorithms & Data Structures
+* Low-level Programming Concepts
+* Software Engineering Principles
 
-  ### 💻 Programming Languages
-  - **Python** — AI, data analysis, automation  
-  - **JavaScript / TypeScript** — full-stack development  
-  - **C / C++** — systems and performance-critical code  
-  - **Java** — object-oriented programming & backend  
-  - **Bash** — scripting & automation  
-  - **SQL** — relational databases  
+---
 
-  ---
+### 💻 Programming Languages
 
-  ### 🤖 Artificial Intelligence & Data
-  - Machine Learning fundamentals  
-  - Model training & evaluation  
-  - Data preprocessing & analysis  
+* **Python** — AI, data analysis, automation
+* **JavaScript / TypeScript** — full-stack development
+* **C / C++** — systems and performance-critical code
+* **Java** — backend & object-oriented programming
+* **Bash** — scripting & automation
+* **SQL** — relational databases
 
-  **Libraries & Tools**
-  - Scikit-learn  
-  - TensorFlow  
-  - PyTorch  
-  - Pandas  
-  - NumPy  
+---
 
-  ---
+### 🤖 Artificial Intelligence & Data
 
-  ### 🌐 Web & Application Development
+* Machine Learning fundamentals
+* Model training & evaluation
+* Data preprocessing & analysis
 
-  **Frontend**
-  - React  
-  - Next.js  
-  - Bootstrap  
+**Libraries & Tools**
 
-  **Backend**
-  - Node.js  
-  - **Spring Boot (Java)**  
+* Scikit-learn
+* TensorFlow
+* PyTorch
+* Pandas
+* NumPy
 
-  **Desktop**
-  - Electron  
+---
 
-  ---
+### 🌐 Web & Application Development
 
-  ### 🐧 Systems, DevOps & Tooling
-  - Linux (daily driver: **Arch Linux** 🐧)  
-  - Git & GitHub  
-  - Docker  
-  - Shell scripting  
+**Frontend**
 
-  ---
+* React
+* Next.js
+* Bootstrap
 
-  ### ☁️ Databases & Cloud
+**Backend**
 
-  **Databases**
-  - PostgreSQL  
-  - MySQL  
-  - MariaDB  
+* Node.js
+* Spring Boot
 
-  **Cloud & Hosting**
-  - AWS  
-  - Vercel  
-  - GitHub Pages  
+**Desktop**
 
-  ---
+* Electron
 
-  ### 🧪 Development Practices
-  - Writing clean, maintainable code  
-  - Learning by building and breaking systems  
+---
+
+### 🐧 Systems, DevOps & Tooling
+
+* Linux (daily driver: **Arch Linux** 🐧)
+* Git & GitHub
+* Docker
+* Shell scripting
+
+---
+
+### ☁️ Databases & Cloud
+
+**Databases**
+
+* PostgreSQL
+* MySQL
+* MariaDB
+
+**Cloud & Hosting**
+
+* AWS
+* Vercel
+* GitHub Pages
+
+---
+
+### 📊 Project Management, Strategy & Research
+
+* Project management fundamentals (**PMBOK**)
+* Agile methodologies (**Scrum, Kanban, Lean**)
+* Requirements, scope, time and risk management
+* Strategic analysis (**SWOT, Porter, BSC**)
+* Scientific method, technical writing & research ethics
 
 </details>
 
@@ -121,10 +134,10 @@ I enjoy **building**, **breaking**, and **rebuilding** things until they make se
 
   <br/>
 
-  - ⚙️ Writing and refactoring code  
-  - 📚 Studying systems, algorithms, and AI concepts  
-  - 🧠 Exploring how software and hardware interact  
-  - 🧩 Learning by experimentation  
+* ⚙️ Writing and refactoring code
+* 📚 Studying systems, algorithms, and AI concepts
+* 🧠 Exploring how software and hardware interact
+* 🧩 Learning by experimentation
 
 </details>
 
@@ -135,10 +148,10 @@ I enjoy **building**, **breaking**, and **rebuilding** things until they make se
 
   <br/>
 
-  I occasionally write about what I’m learning and experimenting with:
+I occasionally write about what I’m learning and experimenting with:
 
-  - **dev.to**  
-    https://dev.to/mattsu014  
+* **dev.to**
+  [https://dev.to/mattsu014](https://dev.to/mattsu014)
 
 </details>
 
