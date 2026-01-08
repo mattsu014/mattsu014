@@ -1,7 +1,7 @@
 # I'm Mateus Valentim
 
-- ⚡️ Computer Engineering at **UFC**
-- 🤖 Artificial Intelligence **Unifor**
+- ⚡️ Computer Engineering student at **UFC**
+- 🤖 Artificial Intelligence student at **Unifor**
 
 **Software Development** • **AI/ML** • **Linux** • **Operating Systems** • **Computer Architecture**
 
