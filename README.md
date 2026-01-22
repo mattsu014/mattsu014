@@ -13,7 +13,7 @@ I enjoy **building**, **breaking**, and **rebuilding** things until they make se
 
 ---
 
-<img src="https://64.media.tumblr.com/51d98865d8113e0e00943bf52b85fce5/tumblr_pwtjfx2HE51vpvdbgo1_500.gif" width="360"/>
+<img src="https://img1.picmix.com/output/pic/normal/1/5/4/4/11744451_83d4e.gif" width="360"/>
 
 ---
 
