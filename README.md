@@ -1,6 +1,6 @@
 # I'm Mateus Valentim ✧｡٩(ˊᗜˋ )و✧
 
-**STEM** • **Electronics and Embedded Systems** • **Computer Architecture** • **Operating Systems** • **Linux** • **Software Engineering** • **Web Development** • **AI/ML**
+**STEM** • **Electronics and Embedded Systems** • **Operating Systems** • **Linux** • **Software Development** • **AI/ML**
 
 ### 🎓 Education
 
