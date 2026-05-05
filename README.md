@@ -2,16 +2,15 @@
 
 **STEM** • **Electronics and Embedded Systems** • **Operating Systems** • **Linux** • **Software Development** • **AI/ML**
 
+
+<img src="https://img1.picmix.com/output/pic/normal/1/5/8/5/12765851_2c6d9.gif" width="360"/>
+
+
 ### 🎓 Education
 
 * ⚡️ **Computer Engineering** — Federal University of Ceará (UFC)
 
 ---
-
-<img src="https://img1.picmix.com/output/pic/normal/1/5/8/5/12765851_2c6d9.gif" width="360"/>
-
----
-
 
 ### ⚒️ Programing Languages
 
