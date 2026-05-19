@@ -48,7 +48,7 @@
 
 ### 🏗️ Special Projects
 - **🐧 Operating Systems & Linux:** [Dotfiles](https://github.com/mattsu014/dotfiles) | [Neovim](https://github.com/mattsu014/neovim)
-- **🖥️ Web Development:** [alabamabarbers](https://github.com/mattsu014/alabamabarbers) | [RSVP website](https://github.com/mattsu014/xvdamariaalice)
+- **🖥️ Web Development:** [Navalha](https://github.com/techpratics/navalha) | [RSVP website](https://github.com/mattsu014/xvdamariaalice)
 - **🧠 AI & Automation:** [Alte-Ego](https://github.com/mattsu014/alterego) | [Alien](https://github.com/mattsu014/alienFeiraConhecimento) | [DeepSeek-R1](https://github.com/mattsu014/DeepSeek-R1)
 - **🔌 STEM & Electronics:** [Solarbank](https://github.com/mattsu014/solarbank)
 
