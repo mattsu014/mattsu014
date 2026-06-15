@@ -3,7 +3,7 @@
 **STEM** • **Electronics and Embedded Systems** • **Operating Systems** • **Linux** • **Software Development** • **AI/ML**
 
 
-<img src="https://sam4k.com/content/images/2022/04/tired_computer.gif" width="360"/>
+<img src="https://i.pinimg.com/originals/df/57/c3/df57c3c68b0bd5a5a11503c2a7292af3.gif" width="360"/>
 
 
 ### 🎓 Education
@@ -50,5 +50,5 @@
 - **🐧 Operating Systems & Linux:** [Dotfiles](https://github.com/mattsu014/dotfiles) | [Neovim](https://github.com/mattsu014/neovim)
 - **🖥️ Web Development:** [Navalha](https://github.com/techpratics/navalha) | [RSVP website](https://github.com/mattsu014/xvdamariaalice)
 - **🧠 AI & Automation:** [Alte-Ego](https://github.com/mattsu014/alterego) | [Alien](https://github.com/mattsu014/alienFeiraConhecimento) | [DeepSeek-R1](https://github.com/mattsu014/DeepSeek-R1)
-- **🔌 STEM & Electronics:** [Solarbank](https://github.com/mattsu014/solarbank)
+- **🔌 STEM & Electronics:** [Solarbank](https://github.com/mattsu014/solarbank) | [OndasAntenas_Halliday](https://github.com/mattsu014/FisicaHalliday_OndasAntenas)
 
