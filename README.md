@@ -3,7 +3,7 @@
 **STEM** • **Electronics and Embedded Systems** • **Operating Systems** • **Linux** • **Software Development** • **AI/ML**
 
 
-<img src="https://i.pinimg.com/originals/df/57/c3/df57c3c68b0bd5a5a11503c2a7292af3.gif" width="360"/>
+<img src="https://media.tenor.com/zk6OuE-RGngAAAAC/midoriya-izuku-anime-stud.gif" width="360"/>
 
 
 ### 🎓 Education
